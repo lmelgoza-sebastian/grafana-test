@@ -1,0 +1,11 @@
+type,invoice_id,name,amount_due,invoice_date,due_date,status,days_over
+receivable,INV-001,ACME Corp,4500,6/1/2025,7/1/2025,overdue,6
+receivable,INV-002,Globex Inc,1200,6/15/2025,7/15/2025,pending,0
+receivable,INV-003,Stark Industries,3200,5/1/2025,6/1/2025,paid,36
+receivable,INV-004,Wayne Enterprises,2750,6/20/2025,7/20/2025,pending,0
+receivable,INV-005,ACME Corp,1800,6/10/2025,7/5/2025,overdue,2
+payable,BILL-001,Supplies R Us,2300,6/15/2025,7/10/2025,pending,0
+payable,BILL-002,OfficeMax,1050,6/20/2025,7/20/2025,pending,0
+payable,BILL-003,Staples Inc,800,5/1/2025,6/1/2025,paid,36
+payable,BILL-004,InkPro,450,6/5/2025,6/25/2025,overdue,12
+payable,BILL-005,OfficeMax,620,6/30/2025,7/30/2025,pending,0
